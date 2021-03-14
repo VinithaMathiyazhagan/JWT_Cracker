@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
-#
 # Python Script to bruteforce for Json Web Token Secret. 
-#
+
 
 from concurrent.futures import ThreadPoolExecutor as executor
 import argparse
